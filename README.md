@@ -53,8 +53,8 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 Then clone and build:
 
 ```bash
-git clone https://github.com/YOURUSERNAME/rusty-pad.git
-cd rusty-pad
+git clone https://github.com/LunaVibeCoding/RustyPad.git
+cd RustyPad
 cargo build --release
 ```
 
